@@ -1,3 +1,4 @@
 #!/bin/bash
-man 2
+man man
+
 
